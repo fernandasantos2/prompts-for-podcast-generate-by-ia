@@ -1,1 +1,5 @@
-https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook
+####criação do banner####
+crie uma imagem capa para podcast de um podcast destinado a pacientes, chamado Nutrinterativa. a ideia é remeter a tecnologia e saúde
+
+####criação do título####
+crie uma imagem com fundo branco, apenas com o nome do podcast.
